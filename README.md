@@ -7,3 +7,4 @@ Here, we will see cover all possible ways insights to learn ML to the core
 4. Linear Regression using Scikit - Learn
 5. Exploring Sigmoid function for Logistic Regression.
 6. Cost Function for Logistic Regression.
+7. Gradient descent for Logistic Regression.
