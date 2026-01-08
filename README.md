@@ -11,3 +11,4 @@ Here, we will see cover all possible ways insights to learn ML to the core
 8. Logistic Regression using Scikit Learn.
 9. Understanding Decision tree algorithm.
 10. Decision tree using Scikit Learn.
+11. SVM Classifier.
